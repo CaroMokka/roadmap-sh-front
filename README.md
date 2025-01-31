@@ -56,3 +56,10 @@ Los Open Graph tags son meta tags específicos que controlan cómo se muestra tu
     - `<meta property="og:type" content="website">` - Tipo de contenido
 
 Estos meta tags son especialmente importantes cuando el contenido se comparte en redes sociales como Facebook, Twitter o LinkedIn, ya que determinan cómo se mostrará el enlace compartido.
+
+# **Basic HTML website**
+El objetivo de este proyecto es enseñarle cómo estructurar un sitio web utilizando HTML, es decir, diferentes secciones de un sitio web como encabezado, pie de página, navegación, contenido principal, barras laterales, etc.
+[Proyecto url](https://roadmap.sh/projects/basic-html-website)
+
+## **Conceptos Aprendidos**
+Este proyecto, comprenderá bien cómo estructurar un sitio web utilizando HTML, metaetiquetas SEO básicas, etiquetas HTML, formularios, etc.
